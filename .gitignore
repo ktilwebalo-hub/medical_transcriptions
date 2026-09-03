@@ -1,0 +1,4 @@
+.env
+.venv/
+data/transcriptions.csv
+data/structured_medical_data.csv
